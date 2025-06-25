@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Real Estate Listing Generator",
+      "content": "# ROLE\nAct as an expert real estate copywriter with years of experience in crafting compelling, persuasive, and clear property listings that attract buyers and create an emotional connection.\n\n# TASK\nYour task is to generate a complete real estate listing package using the property details provided below. You will first create a standalone description of the property and a standalone description of the neighborhood. Then, you will use that information to write three distinct listing options, each with a different tone and a clear call to action.\n\n# [INPUT] - Fill in the details for your property below:\n\n* **Property Type:**: {Property Type}\n* **Key Features:**: {Key Features}\n* **Neighborhood:**: {Neighborhood}\n* **City, Country:**: {City, Country}\n* **Ideal For (Target Audience):**: {Target Audience}\n\n# [OUTPUT STRUCTURE] - Follow this structure precisely:\n\n**Part 1: The Property**\nWrite an engaging and detailed description of the property. Focus on the benefits of the features, not just the features themselves. Paint a picture of what it would be like to live in this space.\n\n**Part 2: The Neighbourhood**\nWrite an evocative and appealing description of the neighborhood. Focus on the lifestyle, amenities (cafes, parks, shops), and unique character of the area. Mention what makes it a desirable place to live for the target audience.\n\n**Part 3: Final Listing Options**\nNow, combine the information from Part 1 and Part 2 to create three distinct listings.\n\n* **Option 1 (Direct & Informative):**\n    * **Tone:** Clear, concise, and professional.\n    * **Focus:** Present the most important information and key selling points in a straightforward manner.\n    * **Call to Action:** A direct invitation to a viewing.\n\n* **Option 2 (Persuasive & Aspirational):**\n    * **Tone:** Emotional, aspirational, and benefit-driven.\n    * **Focus:** Sell the dream lifestyle. Use vivid language to create a sense of desire and exclusivity.\n    * **Call to Action:** A persuasive nudge to seize the opportunity.\n\n* **Option 3 (Social Media & Scannable):**\n    * **Tone:** Energetic, friendly, and easy to read.\n    * **Focus:** Use bullet points or emojis to highlight the top 3-5 features and benefits. Perfect for Instagram or Facebook.\n    * **Call to Action:** An enthusiastic and low-pressure invitation to learn more or tag someone who would love the place.",
+      "description": "Generates a complete real estate listing package with property and neighborhood descriptions, and three distinct listing options with varying tones and calls to action.",
+      "tags": ["real estate", "copywriting", "property listing", "marketing"],
+      "metadata": {
+        "license": "mit",
+        "evaluationScore": 0.90,
+        "category": "real estate",
+        "difficulty": "advanced",
+        "requiredVariables": ["Property Type", "Key Features", "Neighborhood", "City, Country", "Target Audience"],
+        "optionalVariables": [],
+        "tokenCount": 750,
+        "language": "en",
+        "isVerified": true
+      },
+      "authorId": "real-estate-expert-1",
+      "authorName": "Real Estate Listings Pro",
+      "usageCount": 120,
+      "averageRating": 4.5,
+      "totalRatings": 30,
+      "isPublic": true,
+      "isFeatured": true,
+      "fewShotExamples": [
+        {
+          "input": {
+            "Property Type": "3-bedroom flat",
+            "Key Features": "private parking spot, newly renovated kitchen with quartz countertops, balcony with city views, hardwood floors throughout, abundant natural light, smart home technology",
+            "Neighborhood": "Notting Hill",
+            "City, Country": "London, UK",
+            "Target Audience": "Young professionals"
+          },
+          "output": "**Part 1: The Property**\nStep into modern luxury with this exquisite 3-bedroom flat, perfectly designed for the discerning urban dweller. The heart of this home is its newly renovated kitchen, boasting sleek quartz countertops and top-of-the-line appliances, inviting culinary exploration and effortless entertaining. Sunlight floods every corner, accentuating the elegant hardwood floors that flow seamlessly throughout the open living spaces. Imagine unwinding on your private balcony, sipping your morning coffee or evening cocktail, with breathtaking city views as your backdrop. This flat also offers the ultimate convenience of a private parking spot and integrated smart home technology, providing a truly effortless and connected living experience.\n\n**Part 2: The Neighbourhood**\nNestled in the vibrant and iconic Notting Hill, this property offers more than just a home; it offers a lifestyle. Known for its charming pastel-colored houses, bustling Portobello Road Market, and a rich tapestry of independent boutiques, cafes, and gourmet restaurants, Notting Hill embodies sophisticated bohemian chic. Enjoy leisurely strolls through picturesque streets, discover hidden mews, or relax in the lush green spaces of Holland Park, just a stone's throw away. With excellent transport links, you'll have easy access to central London, making it an ideal locale for young professionals seeking both urban convenience and a distinctive, cultured neighborhood.\n\n**Part 3: Final Listing Options**\n\n* **Option 1 (Direct & Informative):**\n    * **Tone:** Clear, concise, and professional.\n    * **Focus:** Present the most important information and key selling points in a straightforward manner.\n    * **Call to Action:** A direct invitation to a viewing.\n\n    Discover this stunning 3-bedroom flat in desirable Notting Hill, London. Features include a newly renovated kitchen with quartz countertops, hardwood floors, a private balcony with city views, and smart home technology. A private parking spot is also included. Ideal for young professionals seeking a modern urban lifestyle. Contact us today to schedule your private viewing.\n\n* **Option 2 (Persuasive & Aspirational):**\n    * **Tone:** Emotional, aspirational, and benefit-driven.\n    * **Focus:** Sell the dream lifestyle. Use vivid language to create a sense of desire and exclusivity.\n    * **Call to Action:** A persuasive nudge to seize the opportunity.\n\n    Imagine your elevated city life in this exceptional 3-bedroom Notting Hill flat. Experience culinary delight in your new quartz-countertop kitchen, bask in abundant natural light, and savor panoramic city views from your private balcony. With sleek hardwood floors and cutting-edge smart home technology, every detail caters to a sophisticated, effortless lifestyle. This is more than a home; it's your private oasis in one of London's most cherished neighborhoods. Seize this unparalleled opportunity to live the Notting Hill dream. Arrange your exclusive tour now.\n\n* **Option 3 (Social Media & Scannable):**\n    * **Tone:** Energetic, friendly, and easy to read.\n    * **Focus:** Use bullet points or emojis to highlight the top 3-5 features and benefits. Perfect for Instagram or Facebook.\n    * **Call to Action:** An enthusiastic and low-pressure invitation to learn more or tag someone who would love the place.\n\n    🌟 NEW LISTING ALERT! 🌟 Live your best life in this gorgeous 3-bed flat in vibrant Notting Hill! ✨\n\n    🔥 **Key Highlights:**\n    * Renovated Kitchen with Quartz! 🍳\n    * Private Balcony with City Views! 🌆\n    * Hardwood Floors & Sunny Spaces! ☀️\n    * Smart Home Ready! 💡\n    * Private Parking Included! 🚗\n\n    Perfect for young professionals wanting a stylish London pad with all the perks! Don't miss out! DM us for details or tag a friend who needs to see this! 👇 #NottingHillLiving #LondonRealEstate #DreamHome #PropertyForSale"
+        }
+      ]
+    },
+    {
+      "title": "Real Estate Owner Outreach Message",
+      "content": "# ROLE\nAct as a world-class real estate acquisitions assistant, specializing in writing highly personalized and empathetic cold outreach. Your communication style is the opposite of a typical \"corporate\" or \"salesy\" agent. You are human, respectful, and genuine.\n\n# TASK\nYour goal is to write a short, effective outreach message (for SMS or a short email) to a property owner. Your message must be crafted to build trust and elicit a positive response in a sensitive situation. You will generate TWO versions of the message based on the inputs provided.\n\n# [INPUTS] - Fill in the details for your lead below:\n* **OwnerName**: The full name of the property owner.: {OwnerName}\n* **PropertyAddress**: The full street address of the property.: {PropertyAddress}\n* **LeadSource**: The place from which the lead was sourced. {LeadSource}\n* **YourName**: Your first name (the agent).: {YourName}\n* **YourCompany**: Your company name: {YourCompany}\n\n# GUIDING PRINCIPLES & RULES\n\n1.  **Empathy First**:\n    * For **Probate**: Acknowledge the difficulty of the time. Use phrases like \"I know this is a difficult time\" and \"handling affairs.\" The tone must be exceptionally calm and patient.\n    * For **Pre-Foreclosure**: Acknowledge the stress of the situation without being alarmist. Use phrases like \"navigating a tough situation\" or \"exploring options.\"\n    * For **Tired Landlord / Absentee Owner**: The tone can be more direct but still respectful. Focus on offering a simple, convenient solution.\n    * For **Other**: Do not specify the lead source, assume that you came across the property\n\n2.  **Hyper-Personalization**: You MUST mention the `{PropertyAddress}` to prove this is not a mass message.\n\n3.  **Core Value Proposition**: Clearly and simply state the offer: a private, no-obligation, all-cash offer that can close quickly and without hassle (no repairs, no commissions).\n\n4.  **Low-Pressure CTA**: The call-to-action must be soft and optional. Use questions like, \"Would you be open to a brief chat to see if we can help?\" or \"If you're considering your options, I'd be happy to speak with you.\"\n\n5.  **Strict Constraints**:\n    * **Word Count**: Keep each message option under 85 words.\n    * **DO NOT** use cliché sales language (\"once in a lifetime,\" \"don't miss out\").\n    * **DO NOT** create a false sense of urgency.\n    * **DO NOT** sound like a robot or a template. Every message should feel like it was written by a real person.\n\n# OUTPUT STRUCTURE\nGenerate two distinct options based on the inputs.\n\n* **Option 1 (The Empathetic Approach):** This version should lead with empathy and understanding, making the human connection the primary focus before introducing the business proposition.\n* **Option 2 (The Gentle & Direct Approach):** This version is still very respectful but gets to the point a bit more quickly, focusing on providing a simple solution to a potential problem.",
+      "description": "Generates empathetic and personalized cold outreach messages for real estate property owners, tailored to different lead sources and designed to build trust.",
+      "tags": ["real estate", "outreach", "cold messaging", "acquisition", "empathy"],
+      "metadata": {
+        "license": "mit",
+        "evaluationScore": 0.95,
+        "category": "real estate",
+        "difficulty": "advanced",
+        "requiredVariables": ["OwnerName", "PropertyAddress", "LeadSource", "YourName", "YourCompany"],
+        "optionalVariables": [],
+        "tokenCount": 800,
+        "language": "en",
+        "isVerified": true
+      },
+      "authorId": "acquisitions-pro-1",
+      "authorName": "Real Estate Acquisitions Assistant",
+      "usageCount": 95,
+      "averageRating": 4.7,
+      "totalRatings": 25,
+      "isPublic": true,
+      "isFeatured": true,
+      "fewShotExamples": [
+        {
+          "input": {
+            "OwnerName": "Jane Doe",
+            "PropertyAddress": "456 Oak Avenue, Springfield, IL",
+            "LeadSource": "Probate",
+            "YourName": "Ron",
+            "YourCompany": "Local Property Solutions"
+          },
+          "output": "* **Option 1 (The Empathetic Approach):**\n    Hi Jane, my name is Ron from Local Property Solutions. I understand that dealing with property matters at 456 Oak Avenue might be difficult right now given everything. I wanted to reach out respectfully to see if you're exploring options. We make private, all-cash offers that can close quickly, with no repairs or commissions. Would you be open to a brief, no-pressure chat to see if we can help simplify things?\n\n* **Option 2 (The Gentle & Direct Approach):**\n    Hello Jane, Ron here from Local Property Solutions. I'm reaching out regarding your property at 456 Oak Avenue. I know this can be a sensitive time, but we specialize in providing quick, all-cash offers without the usual hassle of repairs or commissions. If you're considering your options, I'd be happy to speak with you briefly to see if our service could be a good fit."
+        }
+      ]
+    }
+  ]

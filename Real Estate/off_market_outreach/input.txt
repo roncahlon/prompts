@@ -1,5 +1,0 @@
-{OwnerName} The full name of the property owner [e.g., John Smith]
-{PropertyAddress} The full street address of the property [e.g., 123 Main St, Anytown, USA]
-{LeadSource} The place from which the lead was sourced. [e.g., Probate, Pre-Foreclosure, Tired Landlord, Other]
-{YourName} Your first name (the agent) [e.g., Ron]
-{YourCompany} Your company name [e.g., Local Property Solutions]

@@ -1,5 +1,0 @@
-{Property Type}: Type of property [e.g., 3-bedroom flat, single-family home, modern condo]
-{Key Features}: Features of the property [e.g., private parking spot, newly renovated kitchen with quartz countertops, balcony with city views, hardwood floors throughout, abundant natural light, smart home technology]
-{Neighborhood}: Neighborhood of the property [e.g., Notting Hill]
-{City, Country}: City and country of the property [e.g., London, UK]
-{Target Audience}: Ideal for [e.g., Young professionals, a growing family, first-time homebuyers, investors]
